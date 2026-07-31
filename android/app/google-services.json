@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "155976641675",
+    "project_id": "dripproject-24882",
+    "storage_bucket": "dripproject-24882.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155976641675:android:225f602184e1d641d2388e",
+        "android_client_info": {
+          "package_name": "com.abeniizerbekele.drip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155976641675-08vlnqrpbsfbt41eumqb3dih02bjd537.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abeniizerbekele.drip",
+            "certificate_hash": "0505bed876849e283086d1e9e5fd6a747ad7f845"
+          }
+        },
+        {
+          "client_id": "155976641675-3o0vtlvaj425csgf9gijgc9pbtqqpocg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIok6JTzoQFUacYQxblhVT_zDdImelv40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155976641675-3o0vtlvaj425csgf9gijgc9pbtqqpocg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "155976641675-mfb97v4g9h97lfbqfaorjp2c253te5bp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abeniizerbekele.drip"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+*
+!railway.json
+!server/
+!server/package.json
+!server/package-lock.json
+!server/Dockerfile.railway
+!server/container-entrypoint.js
+!server/src/
+!server/src/**
+!server/data/
+!server/data/catalog.json

@@ -1,0 +1,5 @@
+# Replace this hostname with the staging API DNS name. Caddy terminates HTTPS;
+# the Node service remains reachable only through host loopback.
+api-staging.example.com {
+  reverse_proxy 127.0.0.1:4242
+}

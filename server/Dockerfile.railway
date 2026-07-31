@@ -1,0 +1,16 @@
+FROM node:24.13.1-bookworm-slim
+
+ENV NODE_ENV=production
+WORKDIR /opt/drip/server
+
+COPY server/package.json server/package-lock.json ./
+RUN npm ci --omit=dev --omit=optional --ignore-scripts \
+  && npm cache clean --force
+
+COPY server/container-entrypoint.js ./container-entrypoint.js
+COPY server/src ./src
+COPY server/data/catalog.json ./data/catalog.json
+
+EXPOSE 4242
+STOPSIGNAL SIGTERM
+CMD ["node", "container-entrypoint.js"]

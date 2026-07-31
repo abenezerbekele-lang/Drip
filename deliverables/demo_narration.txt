@@ -1,0 +1,13 @@
+Welcome to Drip: a modern, AI-guided fashion marketplace designed to make resale feel personal, trustworthy, and easy to use.
+
+The home experience starts with editorial discovery instead of a generic product grid. Shoppers get a featured drop, real product photography, clear trust signals, curated closets, and fast access to the marketplace. The interface adapts across phones and wide screens, with accessible controls, responsive layouts, and reduced-motion support.
+
+Ask Drip is the flexible styling concierge built around the customer. A shopper can ask for a full fit, set a total budget, name an occasion, explain sizing or comfort needs, or ask an unusual clothing question. The assistant responds professionally, stays body-neutral, and grounds recommendations in available products and server-verified prices.
+
+From the market, customers can search by brand, mood, category, or image. Product pages show condition, sizes, seller-declared details, estimated fees, and a direct path back to the stylist.
+
+The signed-in profile connects shopping, messages, saved items, orders, and seller tools. Seller Studio gives each business a focused view of listings, orders, payout readiness, promotions, and the Drip Pro model.
+
+At checkout, the app explains every charge before payment. Drip sends only listing IDs and selected sizes to the server. The server recalculates totals, protects one-of-one inventory, and creates a Stripe-hosted Checkout Session. Card numbers never enter Drip, and an order is confirmed only after Stripe’s verified webhook.
+
+Behind the experience, Firestore can serve production catalog data, while transactional SQL protects accounts, sessions, inventory, and payments. Provider keys stay on the server, and production releases never silently become demo accounts.

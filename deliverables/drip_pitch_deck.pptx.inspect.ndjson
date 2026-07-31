@@ -1,0 +1,105 @@
+{"kind":"deck","id":"pr/47lmdl","name":"Deck"}
+{"kind":"layout","layoutId":"003bde3a-413b-416c-b21b-bec17cde7052","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"b0af2b52-5a8f-49cb-847c-d94048cf24e3","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/quitzz","slide":1,"title":"DRIP / PRODUCT PITCH","textShapes":2}
+{"kind":"shape","id":"sh/0vi9cjah","slide":1,"bbox":[54,42,208,38]}
+{"kind":"textbox","id":"sh/1wralor2","slide":1,"text":"DRIP / PRODUCT PITCH","textPreview":"DRIP / PRODUCT PITCH","textChars":20,"textLines":1,"bbox":[70,51,180,22]}
+{"kind":"shape","id":"sh/mh0retsn","slide":1,"bbox":[814,626,408,50]}
+{"kind":"textbox","id":"sh/nitsny98","slide":1,"text":"AI-GUIDED FASHION MARKETPLACE","textPreview":"AI-GUIDED FASHION MARKETPLACE","textChars":29,"textLines":1,"bbox":[841,643,354,22]}
+{"kind":"image","id":"im/il8vihkf","slide":1,"name":"","alt":"Drip production website hero with two people shopping at a night market","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/quitzz","slide":1,"text":"Open on the customer promise: Drip helps people move from inspiration to a complete fit and a protected purchase.\n\n[Sources]\n- Internal Drip website capture: deliverables/website-hero.png\n- Internal Drip editorial asset: assets/editorial/drip_night_market_editorial_v3.jpg"}
+{"kind":"slide","id":"sl/sek5kh","slide":2,"title":"THE CUSTOMER GAP","textShapes":12}
+{"kind":"shape","id":"sh/vqpw7upo","slide":2,"bbox":[70,72,34,0]}
+{"kind":"textbox","id":"sh/wryd0z6t","slide":2,"text":"THE CUSTOMER GAP","textPreview":"THE CUSTOMER GAP","textChars":16,"textLines":1,"bbox":[118,62,440,30]}
+{"kind":"textbox","id":"sh/xs7e947e","slide":2,"text":"Products are easy.\nDecisions are personal.","textPreview":"Products are easy. | Decisions are personal.","textChars":42,"textLines":2,"bbox":[70,120,530,180]}
+{"kind":"textbox","id":"sh/m1wvup8r","slide":2,"text":"Resale discovery is visual, but the decision is personal: budget, fit, occasion, confidence, trust, and payment all happen in the same moment.","textPreview":"Resale discovery is visual, but the decision is personal: budget, fit, occasion, confidence, trust, and payment all happen in the same mo...","textChars":142,"textLines":1,"bbox":[70,330,500,90]}
+{"kind":"textbox","id":"sh/n25w3upc","slide":2,"text":"DISCOVER","textPreview":"DISCOVER","textChars":8,"textLines":1,"bbox":[70,452,108,24]}
+{"kind":"textbox","id":"sh/83edwzqx","slide":2,"text":"Editorial context, not a generic feed","textPreview":"Editorial context, not a generic feed","textChars":37,"textLines":1,"bbox":[188,449,390,48]}
+{"kind":"textbox","id":"sh/94ne547i","slide":2,"text":"ASK","textPreview":"ASK","textChars":3,"textLines":1,"bbox":[70,512,108,24]}
+{"kind":"textbox","id":"sh/yxcvqp8v","slide":2,"text":"Professional answers to flexible style questions","textPreview":"Professional answers to flexible style questions","textChars":48,"textLines":1,"bbox":[188,509,390,48]}
+{"kind":"textbox","id":"sh/zylwzapg","slide":2,"text":"BUY","textPreview":"BUY","textChars":3,"textLines":1,"bbox":[70,572,108,24]}
+{"kind":"textbox","id":"sh/fi5s3uhg","slide":2,"text":"Server-verified totals and Stripe-hosted payment","textPreview":"Server-verified totals and Stripe-hosted payment","textChars":48,"textLines":1,"bbox":[188,569,390,48]}
+{"kind":"shape","id":"sh/14na54zm","slide":2,"bbox":[646,454,566,160]}
+{"kind":"textbox","id":"sh/03e9czy1","slide":2,"text":"Context earns attention.\nAdvice earns confidence.","textPreview":"Context earns attention. | Advice earns confidence.","textChars":49,"textLines":2,"bbox":[684,486,490,88]}
+{"kind":"textbox","id":"sh/n6ps7exc","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[70,676,42,22]}
+{"kind":"textbox","id":"sh/25wre9gr","slide":2,"text":"CUSTOMER VALUE","textPreview":"CUSTOMER VALUE","textChars":14,"textLines":1,"bbox":[106,676,300,22]}
+{"kind":"image","id":"im/ps3u9on2","slide":2,"name":"","geometry":"roundRect","alt":"Drip discovery website showing editorial fashion content and product presentation","bbox":[646,110,566,318]}
+{"kind":"notes","id":"nt/sek5kh","slide":2,"text":"Frame the gap as decision support. Drip connects discovery, advice, and commerce instead of treating them as separate tools.\n\n[Sources]\n- Internal Drip product experience capture: deliverables/website-experience.png\n- Internal product requirements and UX: README.md"}
+{"kind":"slide","id":"sl/nwt8ux","slide":3,"title":"ONE CONNECTED EXPERIENCE","textShapes":8}
+{"kind":"shape","id":"sh/cjup876d","slide":3,"bbox":[70,62,34,0]}
+{"kind":"textbox","id":"sh/rilozm5s","slide":3,"text":"ONE CONNECTED EXPERIENCE","textPreview":"ONE CONNECTED EXPERIENCE","textChars":24,"textLines":1,"bbox":[118,52,440,30]}
+{"kind":"textbox","id":"sh/qhcn6ho7","slide":3,"text":"Inspiration becomes confidence—then checkout.","textPreview":"Inspiration becomes confidence—then checkout.","textChars":45,"textLines":1,"bbox":[70,94,1140,58]}
+{"kind":"shape","id":"sh/18n65wnu","slide":3,"bbox":[70,176,340,494]}
+{"kind":"textbox","id":"sh/07epwr69","slide":3,"text":"01 / DISCOVER","textPreview":"01 / DISCOVER","textChars":13,"textLines":1,"bbox":[94,201,274,24]}
+{"kind":"textbox","id":"sh/z65o3m5o","slide":3,"text":"Editorial + trust signals","textPreview":"Editorial + trust signals","textChars":25,"textLines":1,"bbox":[94,230,292,48]}
+{"kind":"shape","id":"sh/elc7uhoj","slide":3,"bbox":[141,270,198,386]}
+{"kind":"shape","id":"sh/obep0r6l","slide":3,"bbox":[455,176,340,494]}
+{"kind":"textbox","id":"sh/ip8nel4j","slide":3,"text":"02 / STYLE","textPreview":"02 / STYLE","textChars":10,"textLines":1,"bbox":[479,201,274,24]}
+{"kind":"textbox","id":"sh/jqh4nq54","slide":3,"text":"Budget-aware outfit guidance","textPreview":"Budget-aware outfit guidance","textChars":28,"textLines":1,"bbox":[479,230,292,48]}
+{"kind":"shape","id":"sh/kra5gbmp","slide":3,"bbox":[526,270,198,386]}
+{"kind":"shape","id":"sh/6tsnil4f","slide":3,"bbox":[840,176,340,494]}
+{"kind":"textbox","id":"sh/7u14rq50","slide":3,"text":"03 / CHECKOUT","textPreview":"03 / CHECKOUT","textChars":13,"textLines":1,"bbox":[864,201,274,24]}
+{"kind":"textbox","id":"sh/sva5kvml","slide":3,"text":"Verified Stripe totals","textPreview":"Verified Stripe totals","textChars":22,"textLines":1,"bbox":[864,230,292,48]}
+{"kind":"shape","id":"sh/twjmt0n6","slide":3,"bbox":[911,270,198,386]}
+{"kind":"image","id":"im/s7yhkjad","slide":3,"name":"","geometry":"roundRect","alt":"01 / DISCOVER mobile app screen","bbox":[150,280,180,392]}
+{"kind":"image","id":"im/mp07y1g7","slide":3,"name":"","geometry":"roundRect","alt":"02 / STYLE mobile app screen","bbox":[535,280,180,392]}
+{"kind":"image","id":"im/5kvq10f6","slide":3,"name":"","geometry":"roundRect","alt":"03 / CHECKOUT mobile app screen","bbox":[920,280,180,392]}
+{"kind":"notes","id":"nt/nwt8ux","slide":3,"text":"Walk left to right. The value is the continuity: discovery context informs the stylist, and the selected product moves into a transparent checkout.\n\n[Sources]\n- Internal two-minute walkthrough frames: deliverables/video_frames/frame-5.png, frame-25.png, frame-105.png\n- Internal AI and checkout behavior: docs/TECHNICAL_DOCUMENTATION.md"}
+{"kind":"slide","id":"sl/ozutmv","slide":4,"title":"TRUST IS THE ARCHITECTURE","textShapes":16}
+{"kind":"shape","id":"sh/j6h4n69w","slide":4,"bbox":[70,66,34,0]}
+{"kind":"textbox","id":"sh/47q5wbq1","slide":4,"text":"TRUST IS THE ARCHITECTURE","textPreview":"TRUST IS THE ARCHITECTURE","textChars":25,"textLines":1,"bbox":[118,56,440,30]}
+{"kind":"textbox","id":"sh/58z6pgrm","slide":4,"text":"Private data stays private.\nPayment authority stays off the client.","textPreview":"Private data stays private. | Payment authority stays off the client.","textChars":67,"textLines":2,"bbox":[70,104,1100,104]}
+{"kind":"textbox","id":"sh/ra1orq9s","slide":4,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[850,234,34,23]}
+{"kind":"textbox","id":"sh/sba50vqd","slide":4,"text":"EMAIL VERIFIED","textPreview":"EMAIL VERIFIED","textChars":14,"textLines":1,"bbox":[894,232,290,26]}
+{"kind":"textbox","id":"sh/tcj6t0ry","slide":4,"text":"Confirmation codes before account activation","textPreview":"Confirmation codes before account activation","textChars":44,"textLines":1,"bbox":[894,263,290,52]}
+{"kind":"textbox","id":"sh/mdonm1s3","slide":4,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[850,326,34,23]}
+{"kind":"textbox","id":"sh/7ex4fm9o","slide":4,"text":"SPLIT DATA AUTHORITY","textPreview":"SPLIT DATA AUTHORITY","textChars":20,"textLines":1,"bbox":[894,324,290,26]}
+{"kind":"textbox","id":"sh/nydgjepo","slide":4,"text":"Firestore catalog; SQL for transactional truth","textPreview":"Firestore catalog; SQL for transactional truth","textChars":46,"textLines":1,"bbox":[894,355,290,52]}
+{"kind":"textbox","id":"sh/mxkzq983","slide":4,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[850,418,34,23]}
+{"kind":"textbox","id":"sh/90vylo7u","slide":4,"text":"STRIPE HOSTED","textPreview":"STRIPE HOSTED","textChars":13,"textLines":1,"bbox":[894,416,290,26]}
+{"kind":"textbox","id":"sh/8zmhsjq9","slide":4,"text":"No raw card details enter Drip","textPreview":"No raw card details enter Drip","textChars":30,"textLines":1,"bbox":[894,447,290,52]}
+{"kind":"textbox","id":"sh/zatgfups","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[850,510,34,23]}
+{"kind":"textbox","id":"sh/y9kfmp87","slide":4,"text":"WEBHOOK CONFIRMED","textPreview":"WEBHOOK CONFIRMED","textChars":17,"textLines":1,"bbox":[894,508,290,26]}
+{"kind":"textbox","id":"sh/lwbyh47i","slide":4,"text":"Redirects never declare an order paid","textPreview":"Redirects never declare an order paid","textChars":37,"textLines":1,"bbox":[894,539,290,52]}
+{"kind":"textbox","id":"sh/0v2xozqd","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[70,676,42,22]}
+{"kind":"textbox","id":"sh/b69gbupg","slide":4,"text":"TRUST & ARCHITECTURE","textPreview":"TRUST & ARCHITECTURE","textChars":20,"textLines":1,"bbox":[106,676,300,22]}
+{"kind":"image","id":"im/vy18za18","slide":4,"name":"","geometry":"roundRect","alt":"Drip architecture from Flutter through Node, Firestore and SQL, to Stripe","bbox":[70,228,738,386]}
+{"kind":"notes","id":"nt/ozutmv","slide":4,"text":"Emphasize the split authority. Firestore serves marketplace catalog documents, while SQL preserves atomic identity, inventory, order, and payment invariants.\n\n[Sources]\n- Internal architecture capture: deliverables/website-launch.png\n- Internal technical documentation: docs/TECHNICAL_DOCUMENTATION.md\n- Internal backend setup and security boundaries: server/README.md"}
+{"kind":"slide","id":"sl/w8n28h","slide":5,"title":"BUSINESS MODEL","textShapes":9}
+{"kind":"shape","id":"sh/07u5orq5","slide":5,"bbox":[0,0,654,720]}
+{"kind":"shape","id":"sh/18nmxw7q","slide":5,"bbox":[70,66,34,0]}
+{"kind":"textbox","id":"sh/q1cnih83","slide":5,"text":"BUSINESS MODEL","textPreview":"BUSINESS MODEL","textChars":14,"textLines":1,"bbox":[118,56,440,30]}
+{"kind":"textbox","id":"sh/r2l4rmp8","slide":5,"text":"Four revenue paths grow with marketplace activity.","textPreview":"Four revenue paths grow with marketplace activity.","textChars":50,"textLines":1,"bbox":[70,106,500,214]}
+{"kind":"textbox","id":"sh/c3u5krqt","slide":5,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[70,326,110,92]}
+{"kind":"textbox","id":"sh/d43mtw7e","slide":5,"text":"MONETIZATION LAYERS","textPreview":"MONETIZATION LAYERS","textChars":19,"textLines":1,"bbox":[170,352,250,30]}
+{"kind":"shape","id":"sh/2dsnex8r","slide":5,"bbox":[70,452,182,0]}
+{"kind":"textbox","id":"sh/3y14n2pc","slide":5,"text":"Transaction fee","textPreview":"Transaction fee","textChars":15,"textLines":1,"bbox":[70,466,205,46]}
+{"kind":"shape","id":"sh/ja9cfax8","slide":5,"bbox":[296,452,182,0]}
+{"kind":"textbox","id":"sh/i90v65gn","slide":5,"text":"Buyer protection","textPreview":"Buyer protection","textChars":16,"textLines":1,"bbox":[296,466,205,46]}
+{"kind":"shape","id":"sh/5cruhkfe","slide":5,"bbox":[70,530,182,0]}
+{"kind":"textbox","id":"sh/kbid8fyt","slide":5,"text":"Listing boosts","textPreview":"Listing boosts","textChars":14,"textLines":1,"bbox":[70,544,205,46]}
+{"kind":"shape","id":"sh/7etcjux4","slide":5,"bbox":[296,530,182,0]}
+{"kind":"textbox","id":"sh/6dkvapgz","slide":5,"text":"Drip Pro subscription","textPreview":"Drip Pro subscription","textChars":21,"textLines":1,"bbox":[296,544,205,46]}
+{"kind":"textbox","id":"sh/t0bulkfa","slide":5,"text":"No invented traction figures. The model is designed and instrumented; launch validation comes next.","textPreview":"No invented traction figures. The model is designed and instrumented; launch validation comes next.","textChars":99,"textLines":1,"bbox":[70,618,500,52]}
+{"kind":"image","id":"im/ah8ru98r","slide":5,"name":"","alt":"Baggy denim photographed in natural window light","bbox":[640,0,640,720]}
+{"kind":"notes","id":"nt/w8n28h","slide":5,"text":"Keep the claim disciplined: the product contains four monetization mechanisms, but no market traction or revenue is claimed before a real pilot.\n\n[Sources]\n- Internal seller experience capture: deliverables/website-seller.png\n- Internal business model: docs/BUSINESS_MODEL.md\n- Internal commerce policy implementation: lib/commerce_model.dart"}
+{"kind":"slide","id":"sl/tdk5hp","slide":6,"title":"THE LAUNCH PATH","textShapes":13}
+{"kind":"shape","id":"sh/q1k7epw7","slide":6,"bbox":[70,66,34,0]}
+{"kind":"textbox","id":"sh/d4bqp4vy","slide":6,"text":"THE LAUNCH PATH","textPreview":"THE LAUNCH PATH","textChars":15,"textLines":1,"bbox":[118,56,440,30]}
+{"kind":"textbox","id":"sh/s32pgzed","slide":6,"text":"The product is built.\nProduction credentials unlock the market.","textPreview":"The product is built. | Production credentials unlock the market.","textChars":63,"textLines":2,"bbox":[70,104,820,166]}
+{"kind":"textbox","id":"sh/3y9ojuxw","slide":6,"text":"Seeking a launch partner and a focused beta community of sellers and style-conscious shoppers.","textPreview":"Seeking a launch partner and a focused beta community of sellers and style-conscious shoppers.","textChars":94,"textLines":1,"bbox":[70,294,760,62]}
+{"kind":"shape","id":"sh/id07apwb","slide":6,"bbox":[70,390,340,190]}
+{"kind":"textbox","id":"sh/50b6lkf2","slide":6,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[92,412,42,24]}
+{"kind":"textbox","id":"sh/4zipczeh","slide":6,"text":"CONNECT","textPreview":"CONNECT","textChars":7,"textLines":1,"bbox":[92,452,190,32]}
+{"kind":"textbox","id":"sh/nud8ved0","slide":6,"text":"Owner Firebase, Stripe, Resend, and OpenAI production credentials","textPreview":"Owner Firebase, Stripe, Resend, and OpenAI production credentials","textChars":65,"textLines":1,"bbox":[92,498,292,62]}
+{"kind":"shape","id":"sh/2947m9wf","slide":6,"bbox":[455,390,340,190]}
+{"kind":"textbox","id":"sh/grmxgz6h","slide":6,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[477,412,42,24]}
+{"kind":"textbox","id":"sh/hsfe9472","slide":6,"text":"DEPLOY","textPreview":"DEPLOY","textChars":6,"textLines":1,"bbox":[477,452,190,32]}
+{"kind":"textbox","id":"sh/up4fepob","slide":6,"text":"Backend API, webhooks, real inventory, monitoring, and support","textPreview":"Backend API, webhooks, real inventory, monitoring, and support","textChars":62,"textLines":1,"bbox":[477,498,292,62]}
+{"kind":"shape","id":"sh/vqdw7upw","slide":6,"bbox":[840,390,340,190]}
+{"kind":"textbox","id":"sh/8nmxcf65","slide":6,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[862,412,42,24]}
+{"kind":"textbox","id":"sh/tove5k7q","slide":6,"text":"PILOT","textPreview":"PILOT","textChars":5,"textLines":1,"bbox":[862,452,190,32]}
+{"kind":"textbox","id":"sh/6l4va5of","slide":6,"text":"Invite sellers, observe conversion, and validate the revenue model","textPreview":"Invite sellers, observe conversion, and validate the revenue model","textChars":66,"textLines":1,"bbox":[862,498,292,62]}
+{"kind":"shape","id":"sh/7mdw3ap0","slide":6,"bbox":[70,624,1140,58]}
+{"kind":"textbox","id":"sh/kz2d8f69","slide":6,"text":"TWO-MINUTE NARRATED PRODUCT WALKTHROUGH INCLUDED WITH THIS SUBMISSION","textPreview":"TWO-MINUTE NARRATED PRODUCT WALKTHROUGH INCLUDED WITH THIS SUBMISSION","textChars":69,"textLines":1,"bbox":[94,642,1090,24]}
+{"kind":"notes","id":"nt/tdk5hp","slide":6,"text":"Close with the concrete next decision: provide the owner credentials, deploy the backend, and run a measured pilot with a narrow customer segment.\n\n[Sources]\n- Internal production roadmap: docs/PRODUCTION_ROADMAP.md\n- Internal requirement mapping: docs/REQUIREMENTS_CHECKLIST.md\n- Internal narrated demo: deliverables/drip_demo_2min.mp4"}

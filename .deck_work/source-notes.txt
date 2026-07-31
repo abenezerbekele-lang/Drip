@@ -1,0 +1,24 @@
+Drip pitch deck source ledger
+
+All visual assets and product claims in this deck are internal to the Drip
+workspace. No external images, benchmarks, market-size claims, customer quotes,
+traction figures, or unsupported outcomes are used.
+
+Internal visual sources:
+- assets/editorial/drip_night_market_editorial_v3.jpg
+- assets/editorial/drip_market_editorial_v2.jpg
+- deliverables/website-hero.png
+- deliverables/website-experience.png
+- deliverables/website-launch.png
+- deliverables/website-seller.png
+- deliverables/video_frames/frame-5.png
+- deliverables/video_frames/frame-25.png
+- deliverables/video_frames/frame-105.png
+
+Internal written sources:
+- README.md
+- docs/BUSINESS_MODEL.md
+- docs/TECHNICAL_DOCUMENTATION.md
+- docs/PRODUCTION_ROADMAP.md
+- docs/REQUIREMENTS_CHECKLIST.md
+- server/README.md
